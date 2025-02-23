@@ -10,7 +10,8 @@ Click on `Use this template` to copy the Mintlify starter kit. The starter kit c
 
 ### Development
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
+Install the [Mintlify CLI](https://www.npmjs.com/package/mintlinpm i -g mintlify
+fy) to preview the documentation changes locally. To install, use the following command
 
 ```
 npm i -g mintlify
