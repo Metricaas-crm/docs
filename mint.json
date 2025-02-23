@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Metricaas",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -17,28 +17,28 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Suporte",
+      "url": "mailto:suporte@metricaas.com.br"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Fazer Login",
+    "url": "https://app.metricaas.com.br"
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "documentação API",
       "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Guia Prático",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
+      "name": "Comunidade",
       "icon": "slack",
       "url": "https://mintlify.com/community"
     },
@@ -50,7 +50,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Comece Aqui",
       "pages": [
         "introduction",
         "quickstart",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Passo a Passo",
       "pages": [
         "essentials/markdown",
         "essentials/code",
@@ -69,13 +69,13 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Documentação API",
       "pages": [
         "api-reference/introduction"
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Exemplos API",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
@@ -84,8 +84,8 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "website": "https://metricaas.com.br",
+    "instagram": "https://www.instagram.com/metricaas",
+    "linkedin": "https://www.linkedin.com/company/metricaascrm"
   }
 }
